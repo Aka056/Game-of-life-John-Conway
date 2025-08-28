@@ -88,4 +88,4 @@ Projet réalisé dans le cadre d'un projet de programmation orientée objet.
 
 ---
 
-**NB** : Pour toute question, consultez les fichiers sources ou ouvrez une issue.
+**NB** : Pour toute question, consultez les fichiers sources.
